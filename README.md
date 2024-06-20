@@ -1,2 +1,2 @@
 # PRODIGY_ML_01
-A Linear Regression model that Predicts the House Prices based on their Square Footage and the number of Bedrooms and Bathrooms 
+A linear regression model to predict House Prices based on Square Footage, number of Bedrooms, and number of Bathrooms.
